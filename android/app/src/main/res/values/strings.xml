@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MedElite</string>
+    <string name="title_activity_main">MedElite</string>
+    <string name="package_name">com.aihas.medelite</string>
+    <string name="custom_url_scheme">com.aihas.medelite</string>
+</resources>
